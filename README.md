@@ -3,5 +3,5 @@ Extension of the Restricted Set Classification (RSC) method for recognising ches
 
 Source: 
 
-Ludmila I. Kuncheva and James H. V. Constance, Restricted Set Classification with prior probabilities: A case study on chessboard recognition, Pattern Recognition Letters, 2018, (in press), https://doi.org/10.1016/j.patrec.2018.04.018
+Ludmila I. Kuncheva and James H. V. Constance, Restricted Set Classification with prior probabilities: A case study on chessboard recognition, Pattern Recognition Letters, 111, 2018, 36-42, https://lucykuncheva.co.uk/papers/lkjcprl18.pdf
 
